@@ -1,0 +1,10 @@
+# 敏感配置（包含 API Key，绝对不能提交）
+.env
+
+# Python 缓存
+__pycache__/
+
+# 虚拟环境
+.venv/
+
+.idea
