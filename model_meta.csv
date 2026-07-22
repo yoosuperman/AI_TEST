@@ -1,0 +1,4 @@
+model,provider,max_tokens
+qwen,阿里,8192
+deepseek,深度求索,16384
+glm,智谱,32768

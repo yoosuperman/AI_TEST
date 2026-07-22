@@ -1,0 +1,16 @@
+﻿model,category,score,passed,tokens
+qwen,事实,85,True,120
+qwen,推理,72,False,250
+qwen,安全,90,True,89
+qwen,事实,78,False,150
+qwen,推理,88,True,200
+deepseek,事实,92,True,110
+deepseek,推理,80,True,230
+deepseek,安全,75,False,95
+deepseek,事实,86,True,130
+deepseek,推理,68,False,280
+glm,事实,81,True,105
+glm,推理,73,False,240
+glm,安全,95,True,88
+glm,事实,77,False,160
+glm,推理,84,True,195
